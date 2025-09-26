@@ -15,7 +15,6 @@
 ## 🛠️ Tech Stack  
 
 ![Tech](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,django,php,laravel,java,cs,firebase,supabase,mysql,postgresql,git,github)  
-*(Add or remove icons to fit your skills)*  
 
 ---
 
