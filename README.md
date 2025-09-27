@@ -1,6 +1,6 @@
 # Hi there, I'm Kenneth Cubian 👋  
 
-💻 **Developer | Learner | Creator**  
+💻 **Developer | Aspiring Engineer**  
 🌱 Currently exploring Mobile Development and Cloud Computing
 
 ---
