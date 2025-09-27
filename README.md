@@ -1,4 +1,4 @@
-# Hi there, I'm Kenneth Cubian 👋  
+# Hi there,  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> I'm Kenneth Cubian
 
 💻 **Developer | Aspiring Engineer**  
 🌱 Currently exploring Mobile Development and Cloud Computing
@@ -14,7 +14,31 @@
 
 ## 🛠️ Tech Stack  
 
-![Tech](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,django,php,laravel,java,cs,mongodb,firebase,supabase,mysql,postgresql,git,lua)  
+<p align="middle">
+  <img src="https://skillicons.dev/icons?i=html" width="60" />
+  <img src="https://skillicons.dev/icons?i=css" width="60" />
+  <img src="https://skillicons.dev/icons?i=js" width="60" />
+  <img src="https://skillicons.dev/icons?i=ts" width="60" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="60" />
+  <img src="https://skillicons.dev/icons?i=react" width="60" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="60" />
+  <img src="https://skillicons.dev/icons?i=express" width="60" />
+  <img src="https://skillicons.dev/icons?i=python" width="60" />
+  <img src="https://skillicons.dev/icons?i=django" width="60" />
+  <img src="https://skillicons.dev/icons?i=java" width="60" />
+  <img src="https://skillicons.dev/icons?i=cs" width="60" />
+  <img src="https://skillicons.dev/icons?i=php" width="60" />
+  <img src="https://skillicons.dev/icons?i=laravel" width="60" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="60" />
+  <img src="https://skillicons.dev/icons?i=supabase" width="60" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="60" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" />
+  <img src="https://skillicons.dev/icons?i=postgresql" width="60" />
+  <img src="https://skillicons.dev/icons?i=git" width="60" />
+  <img src="https://skillicons.dev/icons?i=figma" width="60" />
+  <img src="https://skillicons.dev/icons?i=robloxstudio" width="60" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="60" />
+</p>
 
 ---
 
