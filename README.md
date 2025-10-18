@@ -25,8 +25,6 @@
   <img src="https://skillicons.dev/icons?i=express" width="60" />
   <img src="https://skillicons.dev/icons?i=python" width="60" />
   <img src="https://skillicons.dev/icons?i=django" width="60" />
-  <img src="https://skillicons.dev/icons?i=java" width="60" />
-  <img src="https://skillicons.dev/icons?i=cs" width="60" />
   <img src="https://skillicons.dev/icons?i=php" width="60" />
   <img src="https://skillicons.dev/icons?i=laravel" width="60" />
   <img src="https://skillicons.dev/icons?i=firebase" width="60" />
