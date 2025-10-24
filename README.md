@@ -24,9 +24,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs" width="60" />
   <img src="https://skillicons.dev/icons?i=express" width="60" />
   <img src="https://skillicons.dev/icons?i=python" width="60" />
-  <img src="https://skillicons.dev/icons?i=django" width="60" />
-  <img src="https://skillicons.dev/icons?i=php" width="60" />
-  <img src="https://skillicons.dev/icons?i=laravel" width="60" />
   <img src="https://skillicons.dev/icons?i=firebase" width="60" />
   <img src="https://skillicons.dev/icons?i=supabase" width="60" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="60" />
