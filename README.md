@@ -31,7 +31,6 @@
   <img src="https://skillicons.dev/icons?i=postgresql" width="60" />
   <img src="https://skillicons.dev/icons?i=git" width="60" />
   <img src="https://skillicons.dev/icons?i=figma" width="60" />
-  <img src="https://skillicons.dev/icons?i=robloxstudio" width="60" />
   <img src="https://skillicons.dev/icons?i=vercel" width="60" />
 </p>
 
