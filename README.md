@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 A CS Fresh Graduate from Cavite State University Carmona Batch 2025
+- 🎓 A CS Graduate from Cavite State University Carmona Batch 2025
 - 🌍 Based in Cavite Philippines 
 - 🛠️ I am Passionate on building Applications and Websites
 
