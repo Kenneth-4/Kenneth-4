@@ -6,6 +6,7 @@
 ---
 
 ## 🚀 About Me  
+- 🧑‍💻 Currently working as Software Developer in Hightower Inc.
 - 🎓 A CS Graduate from Cavite State University Carmona Batch 2025
 - 🌍 Based in Cavite Philippines 
 - 🛠️ I am Passionate on building Applications and Websites
