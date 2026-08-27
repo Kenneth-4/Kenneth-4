@@ -54,31 +54,16 @@
 
 ---
 
-### 📂 Featured Repositories
-
-<details>
-  <summary><b>Click to expand featured architecture & projects</b></summary>
-  <br>
-
-  | Project | Description | Stack | Status |
-  | :--- | :--- | :--- | :--- |
-  | **[Project-Alpha](https://github.com/your-username/project-alpha)** | High-throughput distributed API service | Node.js, Redis, PostgreSQL | `Active` |
-  | **[Project-Beta](https://github.com/your-username/project-beta)** | Responsive real-time dashboard analytics | Next.js, Tailwind, WebSockets | `Production` |
-
-</details>
-
----
-
 ### 📬 Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/kenneth-cubian-47b799317/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:cubian.kenneth.4@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://kennethcubian.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
