@@ -4,19 +4,10 @@
 
   <p align="center">
     <a href="https://github.com/your-username?tab=repositories">
-      <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge&color=007ACC&logo=github" alt="Followers"/>
+      <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
-
----
-
-### 🚀 About Me
-
-- 🔭 **Current Focus:** Building scalable web applications & microservices.
-- ⚡ **Philosophy:** Clean architecture, pragmatic engineering, zero bloat.
-- 💬 **Ask Me About:** System design, full-stack workflows, API optimization.
 
 ---
 
@@ -59,19 +50,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-</div>
-
----
-
-### 📊 Performance & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
