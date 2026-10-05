@@ -1,12 +1,6 @@
 <div align="center">
   <h1 align="center">Hey, I'm Kenneth Cubian 👋</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Ai+Engineer;Full-Stack+Development+%26+System+Design;Always+optimizing+for+performance" alt="Typing SVG" />
-
-  <p align="center">
-    <a href="https://github.com/your-username?tab=repositories">
-      <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-    </a>
-  </p>
 </div>
 
 ---
